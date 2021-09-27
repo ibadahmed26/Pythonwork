@@ -1,8 +1,5 @@
 # Pythonwork
-This repository contain some of my hands-on python scripts.
-I am a professioanl python programmer having 2 years python experienced.
-I love web scraping, IOT, Data analyzing, Data engineering and also Django we applications.
-I am currently studying FARM stack technology.
-I am familier with SQL, MySQL and MongoDB.
-I also have some experience on C# desktop application and UI/UX development.
-I am studying React and django with REST APIs for full stack development.
+This repository contains some of my hands-on python scripts and projects.
+All projects based on core python, advanced python and python of data science.
+I am a professioanl python programmer having 2 years python experienced. I love in working environments like web scraping, IOT, Data analyzing, Data engineering and also Django web framework.
+
